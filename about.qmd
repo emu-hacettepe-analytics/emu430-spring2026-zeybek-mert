@@ -5,26 +5,44 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
+1.  Turkish Aerospace, Candidate Engineer, Ongoing
 
-2.  Firm yyy, position yyy, year yyy
+2.  Megart Technology, Candidate Engineer, 2024-2025
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Sirena Marine , Composite Production Intern , 2025
 
-2.  Firm bbb, position yyy, year yyy
+2.  Forvia Faurecia , Lean Manufacturing Intern , 2023
 
 # Projects
 
 # Competencies
 
-R, Quarto, Git, Python
+-   Programming Languages: Python , R , SQL , PowerBI
+
+-   Quarto, Github
+
+-   Ms Office Programs
+
+-   Microsoft Excel
+
+-   Power Automate
 
 # Hobbies
+
+-   GYM
+
+-   Running
+
+-   Table Tennis
+
+    # FOR MY CV;
+
+    Here is the link! : [Mert_Efe_Zeybek_CV](Mert_Efe_Zeybek_CV.pdf)

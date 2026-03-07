@@ -3,10 +3,8 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is xxx xxxx.
+Hi! I'm Mert Efe Zeybek, an Industrial Engineering student at Hacettepe University. I'm interested in data analytics, process improvement, ERP systems, and using data to make better decisions in organizations.
 
 This is my personal webpage.
 
 Please stay tuned to follow my works on data analytics, blog posts, and more.
-
-This is our template.
