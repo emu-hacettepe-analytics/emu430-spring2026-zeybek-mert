@@ -2,8 +2,6 @@
 title: "Assignment 1"
 ---
 
-# Assignment 1
-
 For the first part of my assignment , I would like to give a brief summary of [Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Dasdemir](https://www.youtube.com/watch?v=cUPtQEyaswM) .
 
 ## Brief Summary

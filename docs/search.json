@@ -49,7 +49,7 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.",
+    "text": "For the first part of my assignment , I would like to give a brief summary of Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Dasdemir .",
     "crumbs": [
       "Assignment 1"
     ]
@@ -70,5 +70,35 @@
     "title": "My Blog",
     "section": "",
     "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-1.html#brief-summary",
+    "href": "assignments/assignment-1.html#brief-summary",
+    "title": "Assignment 1",
+    "section": "Brief Summary",
+    "text": "Brief Summary\nIn this video , data scientist Kerem Demirtaş shares his career journey, academic background, and industry experience. In the talk, Mr. Demirtaş discusses his work at companies such as Spike Games and Intel, as well as the artificial intelligence solutions currently developed at Invent Analytics for the retail sector.\nThe speaker emphasizes that data science is not limited to statistics; rather, it involves several critical stages such as problem definition, data collection, and model development. These processes are explained through practical examples from his professional experience.\nIn addition, Mr. Demirtaş presents the technical aspects of his PhD research at Arizona State University, which focuses on the effects of autonomous vehicles on traffic flow and vehicle platooning. The talk also highlights the importance of domain expertise in data science and provides advice for young engineers about future technologies and career opportunities in the field.\nOverall, the presentation serves as a comprehensive professional guide that demonstrates how theoretical knowledge can be effectively integrated with industrial applications.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#open-ended-question",
+    "href": "assignments/assignment-1.html#open-ended-question",
+    "title": "Assignment 1",
+    "section": "Open-Ended Question",
+    "text": "Open-Ended Question\nQuestion: How does the central control unit enable data sharing among autonomous vehicles?\n\n\n\n\n\n\nNoteShow Answer\n\n\n\n\n\nThe centralized controller enables autonomous vehicles to share information through real-time calculations, Wi-Fi communication, and coordinated instructions. It acts as a single system that manages all vehicles in the network. For example, when a vehicle wants to join a platoon, the controller not only sends a command to the joining vehicle but also informs the other vehicles so they can slow down and create a safe space.\nThe controller also predicts the future positions and speeds of vehicles to ensure safe movement. Through constant communication, vehicles can instantly receive updates about other vehicles, even those far ahead. For instance, if the leading vehicle brakes, this information is quickly transmitted to the following vehicles so they can react at the same time and continue driving safely together.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#multiple-choice-question",
+    "href": "assignments/assignment-1.html#multiple-choice-question",
+    "title": "Assignment 1",
+    "section": "Multiple Choice Question",
+    "text": "Multiple Choice Question\nQuestion: How does the centralized controller manage an autonomous vehicle joining to the squad?\n\nIt alerts only the joining car.\nIt coordinates both simultaneously.\nIt depends on visual traffic signs.\nIt asks for human confirmation.\n\n\n\n\n\n\n\nNoteShow Answer\n\n\n\n\n\nCorrect Answer: B) It coordinates both simultaneously.",
+    "crumbs": [
+      "Assignment 1"
+    ]
   }
 ]
