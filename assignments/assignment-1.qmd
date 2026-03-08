@@ -4,12 +4,46 @@ title: "Assignment 1"
 
 # Assignment 1
 
-```{r}
-1 + 1
-```
+For the first part of my assignment , I would like to give a brief summary of [Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Dasdemir](https://www.youtube.com/watch?v=cUPtQEyaswM) .
 
-My first assignment has two parts.
+## Brief Summary
 
-## (a)
+In this video , data scientist Kerem Demirtaş shares his career journey, academic background, and industry experience. In the talk, Mr. Demirtaş discusses his work at companies such as Spike Games and Intel, as well as the artificial intelligence solutions currently developed at Invent Analytics for the retail sector.
 
-## (b)
+The speaker emphasizes that data science is not limited to statistics; rather, it involves several critical stages such as problem definition, data collection, and model development. These processes are explained through practical examples from his professional experience.
+
+In addition, Mr. Demirtaş presents the technical aspects of his PhD research at Arizona State University, which focuses on the effects of autonomous vehicles on traffic flow and vehicle platooning. The talk also highlights the importance of domain expertise in data science and provides advice for young engineers about future technologies and career opportunities in the field.
+
+Overall, the presentation serves as a comprehensive professional guide that demonstrates how theoretical knowledge can be effectively integrated with industrial applications.
+
+# Questions
+
+## Open-Ended Question
+
+**Question:** How does the central control unit enable data sharing among autonomous vehicles?
+
+::: {.callout-note collapse="true"}
+## Show Answer
+
+The centralized controller enables autonomous vehicles to share information through real-time calculations, Wi-Fi communication, and coordinated instructions. It acts as a single system that manages all vehicles in the network. For example, when a vehicle wants to join a platoon, the controller not only sends a command to the joining vehicle but also informs the other vehicles so they can slow down and create a safe space.
+
+The controller also predicts the future positions and speeds of vehicles to ensure safe movement. Through constant communication, vehicles can instantly receive updates about other vehicles, even those far ahead. For instance, if the leading vehicle brakes, this information is quickly transmitted to the following vehicles so they can react at the same time and continue driving safely together.
+:::
+
+## Multiple Choice Question
+
+**Question:** How does the centralized controller manage an autonomous vehicle joining to the squad?
+
+A)  It alerts only the joining car.
+
+B)  It coordinates both simultaneously.
+
+C)  It depends on visual traffic signs.
+
+D)  It asks for human confirmation.
+
+::: {.callout-note collapse="true"}
+## Show Answer
+
+**Correct Answer:** B) It coordinates both simultaneously.
+:::
