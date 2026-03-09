@@ -2,7 +2,7 @@
 title: "Assignment 1"
 ---
 
-## **TASK 3**
+# TASK 3
 
 For the first part of my assignment , I would like to give a brief summary of [Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Dasdemir](https://www.youtube.com/watch?v=cUPtQEyaswM) .
 
@@ -54,7 +54,7 @@ D)  It asks for human confirmation.
 
 ---------------------------------------------------------------------------------------------------------------
 
-## Task 4
+# Task 4
 
 I analyzed the \`polls_us_election_2016\` dataset from the \`dslabs\` package and examined the missing values in the dataset.
 

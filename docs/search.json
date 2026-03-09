@@ -49,17 +49,7 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "For the first part of my assignment , I would like to give a brief summary of Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Dasdemir .",
-    "crumbs": [
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assignment-1.html#task-3",
-    "href": "assignments/assignment-1.html#task-3",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "For the first part of my assignment , I would like to give a brief summary of Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Dasdemir .",
+    "text": "For the first part of my assignment , I would like to give a brief summary of Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Dasdemir .\n\n\nIn this video , data scientist Kerem Demirtaş shares his career journey, academic background, and industry experience. In the talk, Mr. Demirtaş discusses his work at companies such as Spike Games and Intel, as well as the artificial intelligence solutions currently developed at Invent Analytics for the retail sector.\nThe speaker emphasizes that data science is not limited to statistics; rather, it involves several critical stages such as problem definition, data collection, and model development. These processes are explained through practical examples from his professional experience.\nIn addition, Mr. Demirtaş presents the technical aspects of his PhD research at Arizona State University, which focuses on the effects of autonomous vehicles on traffic flow and vehicle platooning. The talk also highlights the importance of domain expertise in data science and provides advice for young engineers about future technologies and career opportunities in the field.\nOverall, the presentation serves as a comprehensive professional guide that demonstrates how theoretical knowledge can be effectively integrated with industrial applications.",
     "crumbs": [
       "Assignment 1"
     ]
@@ -68,8 +58,8 @@
     "objectID": "assignments/assignment-1.html#brief-summary",
     "href": "assignments/assignment-1.html#brief-summary",
     "title": "Assignment 1",
-    "section": "Brief Summary",
-    "text": "Brief Summary\nIn this video , data scientist Kerem Demirtaş shares his career journey, academic background, and industry experience. In the talk, Mr. Demirtaş discusses his work at companies such as Spike Games and Intel, as well as the artificial intelligence solutions currently developed at Invent Analytics for the retail sector.\nThe speaker emphasizes that data science is not limited to statistics; rather, it involves several critical stages such as problem definition, data collection, and model development. These processes are explained through practical examples from his professional experience.\nIn addition, Mr. Demirtaş presents the technical aspects of his PhD research at Arizona State University, which focuses on the effects of autonomous vehicles on traffic flow and vehicle platooning. The talk also highlights the importance of domain expertise in data science and provides advice for young engineers about future technologies and career opportunities in the field.\nOverall, the presentation serves as a comprehensive professional guide that demonstrates how theoretical knowledge can be effectively integrated with industrial applications.",
+    "section": "",
+    "text": "In this video , data scientist Kerem Demirtaş shares his career journey, academic background, and industry experience. In the talk, Mr. Demirtaş discusses his work at companies such as Spike Games and Intel, as well as the artificial intelligence solutions currently developed at Invent Analytics for the retail sector.\nThe speaker emphasizes that data science is not limited to statistics; rather, it involves several critical stages such as problem definition, data collection, and model development. These processes are explained through practical examples from his professional experience.\nIn addition, Mr. Demirtaş presents the technical aspects of his PhD research at Arizona State University, which focuses on the effects of autonomous vehicles on traffic flow and vehicle platooning. The talk also highlights the importance of domain expertise in data science and provides advice for young engineers about future technologies and career opportunities in the field.\nOverall, the presentation serves as a comprehensive professional guide that demonstrates how theoretical knowledge can be effectively integrated with industrial applications.",
     "crumbs": [
       "Assignment 1"
     ]
@@ -90,16 +80,6 @@
     "title": "Assignment 1",
     "section": "Multiple Choice Question",
     "text": "Multiple Choice Question\nQuestion: How does the centralized controller manage an autonomous vehicle joining to the squad?\n\nIt alerts only the joining car.\nIt coordinates both simultaneously.\nIt depends on visual traffic signs.\nIt asks for human confirmation.\n\n\n\n\n\n\n\nNoteShow Answer\n\n\n\n\n\nCorrect Answer: B) It coordinates both simultaneously.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nNote: While completing Task 3, I used NotebookLM to help summarize the video and better identify the important points needed for the assignment.",
-    "crumbs": [
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assignment-1.html#task-4",
-    "href": "assignments/assignment-1.html#task-4",
-    "title": "Assignment 1",
-    "section": "Task 4",
-    "text": "Task 4\nI analyzed the `polls_us_election_2016` dataset from the `dslabs` package and examined the missing values in the dataset.",
     "crumbs": [
       "Assignment 1"
     ]
