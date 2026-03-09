@@ -2,6 +2,8 @@
 title: "Assignment 1"
 ---
 
+## TASK 3
+
 For the first part of my assignment , I would like to give a brief summary of [Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Kerem Demirtaş & Erdi Dasdemir](https://www.youtube.com/watch?v=cUPtQEyaswM) .
 
 ## Brief Summary
@@ -44,4 +46,89 @@ D)  It asks for human confirmation.
 ## Show Answer
 
 **Correct Answer:** B) It coordinates both simultaneously.
+:::
+
+::: callout-note
+> *Note:* While completing Task 3, I used NotebookLM to help summarize the video and better identify the important points needed for the assignment.
+:::
+
+---------------------------------------------------------------------------------------------------------------
+
+## Task 4
+
+I analyzed the \`polls_us_election_2016\` dataset from the \`dslabs\` package and examined the missing values in the dataset.
+
+## Importing the Dataset and Defining Variables
+
+```{r}
+library(dslabs)
+data("polls_us_election_2016")
+df <- polls_us_election_2016
+
+my_first <- "Mert"
+my_birth_year <- 2002
+
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+k
+```
+
+Formula shows that **k is between 8 and 22**.
+
+## Displaying Rows Based on k
+
+If k is **even**, display the first k rows. If k is **odd**, display the last k rows
+
+```{r}
+if (k %% 2 == 0) {
+  head(df, k)
+} else {
+  tail(df, k)
+}
+```
+
+## Checking Missing Values
+
+```{r}
+sum(is.na(df))
+
+na_per_column <- sort(colSums(is.na(df)), decreasing = TRUE)
+head(na_per_column, 8)
+```
+
+## Creating a New Dataset and Replacing Missing Values
+
+```{r}
+new_data <- df
+
+for (col in names(new_data)) {
+  if (is.factor(new_data[[col]])) {
+    new_data[[col]] <- as.character(new_data[[col]])
+  }
+  if (is.numeric(new_data[[col]])) {
+    new_data[[col]][is.na(new_data[[col]])] <- my_birth_year + k
+  } else if (is.character(new_data[[col]])) {
+    new_data[[col]][is.na(new_data[[col]])] <- paste0(my_first, "_", k)
+  }
+}
+```
+
+## Displaying the Updated Dataset
+
+```{r}
+if (k %% 2 == 0) {
+  head(new_data, k)
+} else {
+  tail(new_data, k)
+}
+```
+
+## Final Check
+
+```{r}
+sum(is.na(new_data))
+anyNA(new_data)
+```
+
+::: callout-note
+> *Note: While completing this assignment, I used AI assistance to better understand certain coding steps and technical details. However, I made sure that the solutions followed the course materials and lecture slides and did not deviate from them.*
 :::
